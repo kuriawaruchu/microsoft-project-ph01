@@ -75,8 +75,9 @@ Sqlite3
     
 * zippedData
     * .gitattributes
-    * .gitkeep
     * bom.movie_gross.csv.gz
+    * im
+    * im.db
     * rt.movie_info.tsv.gz
     * rt.reviews.tsv.gz
     * tmdb.movies.csv.gz
