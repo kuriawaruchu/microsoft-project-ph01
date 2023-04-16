@@ -86,4 +86,5 @@ Sqlite3
 * Presentation.pdf
 * README.md
 * README.pdf
+* github.pdf
 * student.ipynb
